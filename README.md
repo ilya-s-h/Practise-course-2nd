@@ -23,7 +23,7 @@
 
 * Ссылка на обзор программных продуктов в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F1.1&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0%25201.1&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 1.2 Таблицы сравнения
 
@@ -33,7 +33,7 @@
 
 * Ссылка на таблицы сравнения в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F1.2&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0%25201.2&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 1.3 Создание учебных материалов для электронного обучения студентов с нарушением зрения
 
@@ -41,7 +41,7 @@
 
 * Ссылка на запись с учебным материалом в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F1.3&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0%25201.3&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 
 ## ВСР
@@ -52,7 +52,7 @@
 
 * Ссылка на текстовый документ в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F2.1&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2592%25D0%25A1%25D0%25A0%25202.1&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 2.2 Подборка статей
 
@@ -60,7 +60,7 @@
 
 * Ссылка на текстовый документ в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F2.2&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2592%25D0%25A1%25D0%25A0%25202.2&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 2.3 Стендовый доклад
 
@@ -68,5 +68,5 @@
 
 * Ссылка на скриншот стендового доклада в виде QR-кода:
 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2FPractise%2F2.3&4&0" width="180" height="180" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2592%25D0%25A1%25D0%25A0%25202.3&4&0" width="180" height="180" border="0" title="QR код"></a>
 
