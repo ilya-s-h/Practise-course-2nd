@@ -31,7 +31,7 @@
 
 [Ссылка на таблицы сравнения + план проведения семинаров](ИСР%201.2)
 
-* Ссылка на таблицы сравнения в виде QR-кода:
+* Ссылка на таблицы сравнения + план проведения семинаров в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-2nd%2Ftree%2Fmaster%2F%25D0%2598%25D0%25A1%25D0%25A0%25201.2&4&0" width="180" height="180" border="0" title="QR код"></a>
 
